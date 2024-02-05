@@ -1,0 +1,18 @@
+import pandas as pd
+import pandas_datareader.data as web
+import datetime as dt
+
+
+start=dt.datetime(2022,1,1)
+end=dt.datetime(2023,5,30)
+##data = web.get_data_yahoo(symbols=['ISP.MI','UCG.MI','BAMI.MI'
+##                                   ,'MB.MI','FBK.MI','BMED.MI']
+##)
+#.stack(level=1, dropna=False)
+#.reset_index(level=[0,1],drop=False)
+#data = web.DataReader('ISP.MI','yahoo',start,end)
+df=web.DataReader('TSLA','yahoo',start,end)
+#data = "Prova"
+#data = web.DataReader
+
+#print(df)
