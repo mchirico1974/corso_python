@@ -18,4 +18,4 @@ Testo di prova
 Aggiunta riga per risotto coi funghi
 
 Ulteriore riga di prova per eseguire un ulteriore commit
-
+Minestrone di verdure
