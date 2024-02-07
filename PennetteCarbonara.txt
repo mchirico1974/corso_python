@@ -1,4 +1,4 @@
-Pennette alla carbonara
+Pennette alla carbonara (modifica fatta in remoto per vedere come funziona la fetch)
 
 Uova
 Solo Guanciale (non si deve usare mai la pancetta)
